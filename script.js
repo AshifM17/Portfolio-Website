@@ -1,12 +1,12 @@
 //Database setup
 const firebaseConfig = {
-    apiKey: "AIzaSyDsoyq-Ts4cSIXxlhPU-dPKRtbXof9AARk",
+    apiKey: "#",
     authDomain: "ashif-s-portfolio.firebaseapp.com",
     databaseURL: "https://ashif-s-portfolio-default-rtdb.firebaseio.com",
     projectId: "ashif-s-portfolio",
     storageBucket: "ashif-s-portfolio.firebasestorage.app",
     messagingSenderId: "18517858921",
-    appId: "1:18517858921:web:13c42e6130df26b15ca0f8",
+    appId: "#",
     measurementId: "G-SJH185M5CB"
 };
 //initialize firebase
